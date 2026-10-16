@@ -1,0 +1,13 @@
+{
+  "name": "Trang web của tôi",
+  "short_name": "Web",
+  "icons": [
+    {
+      "src": "./images.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone"
+}
